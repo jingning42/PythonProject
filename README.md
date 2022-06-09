@@ -18,4 +18,4 @@ The link to the course I took is no longer available. It seems like they break t
 
 ### How to play with these applications? 
 
-You are welcome to play with my python applications by copying and pasting my code to [this website](www.codeskulptor.org).
+You are welcome to play with my python applications by copying and pasting my code to this website https://py2.codeskulptor.org/
